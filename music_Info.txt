@@ -1,0 +1,8 @@
+RecordID|Artist|Title|Medium|Genre|PurchaseDate
+BM001|BrunoM|DW&H|Vinyl|pop|06-12-24
+TS001|TaylorS|1989|CD|Pop|06-12-24
+AD001|Adele|25|Vinyl|Soul|06-12-24
+CP004|Coldplay|Parachutes|CD|Rock|06-12-24
+BM005|Beyoncé|Lemonade|Vinyl|R&B|
+BM006|EdSheeran|Divide|Digital|Pop|06-12-24
+BM002|BrunoM|Locked|Vinyl|pop|15-11-2024

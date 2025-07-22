@@ -1,0 +1,6 @@
+Record ID,Rental Date,Return Date,Rental Customer ID
+BM001,12-11-2024,15-11-2024,lbro
+BM002,17-01-2014,06-12-2024,abcd
+BM003,17-01-2024,,lbro
+CP004,06-12-2024,06-12-2024,abcd
+BM001,06-12-2024,,lbro
